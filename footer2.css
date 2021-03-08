@@ -71,13 +71,13 @@ header .overlay {
 
 .topbox {
 	background-color: #800000;
-	background: transparent;
+	
 
 
 }
 
 .toggle {
-	background-color: #800000;
+	background-color: white;
 }
 .logo {
 	width: 150px;
@@ -88,7 +88,7 @@ header .overlay {
 	margin-bottom: 0px;
 }
 nav li a {
-color: #800000;
+color: white;
 font-size: 20px;
 font-weight: 20px;
 }
@@ -317,14 +317,25 @@ nav li a:hover{
 	width: 100%;
 	height: auto;
 	margin: auto;
-	text-align: center;
+	margin-top: 20px;
 }
-
 
 .footer-link ul {
 	margin: 0px;
 	padding: 0px;
+}
+
+
+.footer-link ul li a {
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
 	
+}
+
+.smart {
+	text-align: left;
 }
 
 h1 {
@@ -400,7 +411,7 @@ div ul li a {
 
 }
 
-.footer-section-two .footer-heading h2{
+.footer-section-one .footer-heading h2{
 	text-align: center;
 }
 
@@ -471,9 +482,6 @@ div ul li a {
 	text-align: center;
 
 }
-
-
-
 
 
 
